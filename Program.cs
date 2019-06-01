@@ -1,3 +1,5 @@
+/* Disclaimer: The examples and comments from this program are from
+   C#7 in a Nutshell and are written for learning purposes only. */
 using System;
 using System.Collections.Generic;
 using System.Linq;
